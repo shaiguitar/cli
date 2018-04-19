@@ -22,3 +22,4 @@ deploy:
     repo: cryptomator/cli
     branch: master
     tags: true
+    foobool: true
